@@ -1,0 +1,14 @@
+.cartcontainer {
+    background-color: rgb(192, 219, 210);
+    margin: 0% 5%;
+    box-shadow: 0px 0px 5px black;
+    padding-bottom: 1%;
+    max-height: 600px;
+    overflow: auto;
+    margin-bottom: 4px;
+}
+
+.cartheader {
+    text-align: center;
+    padding : 2%;
+}

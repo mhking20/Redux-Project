@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    box-shadow: 1px 1px 5px black;
+    background-color:   rgb(192, 219, 210);
+    padding: 0%;
+    margin: 5px;
+}
+
+.header {
+    padding-left: 10%;
+    text-shadow: 1px 1px 2px black;
+    color: aqua;
+    text-transform: uppercase;
+}
+.value {
+    margin-left: auto;
+    width: 20%;
+    text-shadow: 0px 0px 2px rgb(66, 42, 42);
+}
